@@ -1,2 +1,2 @@
 # Full-Stack-Backend
-Express - MongooDB - JWT
+Express - MongooDB - JWT - Bcrypt
